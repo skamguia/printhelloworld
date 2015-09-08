@@ -1,0 +1,5 @@
+C:\Users\skamg\documents\visual studio 2015\Projects\PrintHelloWorld\PrintHelloWorld.Library\bin\Debug\PrintHelloWorld.Library.dll
+C:\Users\skamg\documents\visual studio 2015\Projects\PrintHelloWorld\PrintHelloWorld.Library\bin\Debug\PrintHelloWorld.Library.pdb
+C:\Users\skamg\documents\visual studio 2015\Projects\PrintHelloWorld\PrintHelloWorld.Library\obj\Debug\PrintHelloWorld.Library.csprojResolveAssemblyReference.cache
+C:\Users\skamg\documents\visual studio 2015\Projects\PrintHelloWorld\PrintHelloWorld.Library\obj\Debug\PrintHelloWorld.Library.dll
+C:\Users\skamg\documents\visual studio 2015\Projects\PrintHelloWorld\PrintHelloWorld.Library\obj\Debug\PrintHelloWorld.Library.pdb
